@@ -7,7 +7,7 @@ $musics = readDelimitedData(__DIR__ . '/jukeboxData.txt');
 <html lang="fr" dir="ltr">
 <head>
   <meta charset="utf-8">
-  <title>&#x1F399; Mon jukebox dynamique</title>
+  <title> Mon jukebox dynamique</title>
   <link rel="stylesheet" type="text/css" href="style2.css">
 </head>
 <body>
